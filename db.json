@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Indian tree pie","category":"Pink"},
+{"id":2,"name":"Hummingbird (unidentified)","category":"Red"},
+{"id":3,"name":"Roseat flamingo","category":"Indigo"},
+{"id":4,"name":"Raccoon dog","category":"Crimson"},
+{"id":5,"name":"American racer","category":"Turquoise"},
+{"id":6,"name":"Common brushtail possum","category":"Maroon"},
+{"id":7,"name":"Barbet, levaillant's","category":"Green"},
+{"id":8,"name":"Langur, common","category":"Blue"},
+{"id":9,"name":"Elephant, asian","category":"Red"},
+{"id":10,"name":"Cook's tree boa","category":"Purple"},
+{"id":11,"name":"Bat, madagascar fruit","category":"Pink"},
+{"id":12,"name":"Musk ox","category":"Mauv"},
+{"id":13,"name":"Black-crowned crane","category":"Turquoise"},
+{"id":14,"name":"Mexican beaded lizard","category":"Maroon"},
+{"id":15,"name":"Whale, baleen","category":"Orange"},
+{"id":16,"name":"Roseat flamingo","category":"Pink"},
+{"id":17,"name":"Dragon, frilled","category":"Violet"},
+{"id":18,"name":"Rattlesnake, horned","category":"Purple"},
+{"id":19,"name":"Ring-tailed coatimundi","category":"Red"},
+{"id":20,"name":"Vulture, bengal","category":"Pink"}
+]
+}
